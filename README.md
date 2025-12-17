@@ -1,6 +1,6 @@
 ## DailyFlow
-
-![design image](https://github.com/user-attachments/assets/ff506f03-9aeb-4eec-a86e-374c3f80aa0a)
+4c3f80aa0a
+![design image]([https://github.com/user-attachments/assets/ff506f03-9aeb-4eec-a86e-37](https://github.com/Sanjana-2802/DailyFlow/blob/c05dd52ddb5f02ee77466be6a70b8a171fa6c9cf/WhatsApp%20Image%202025-12-17%20at%208.07.45%20AM.jpeg))
 
 GreenProductive is a one-week project I created to kickstart my productive coding journey. It's a real-time updating to-do list
 featuring custom-designed UI elements. This project not only helped me refresh my javaScript skills but also reinforced my
